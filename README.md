@@ -1,3 +1,3 @@
 # Lora1276
 
-Just an attempt at a Kicad-footprint and -symbol for the Nicerf Lora1276 V2.0 - module.
+I couldn't find either a footprint or a symbol for the Nicerf Lora1276 V2.0 - module for KiCad, so I decided to make my own ones. I am not very handy with KiCad just yet, so it's entirely possible that these have some issues, but the footprint does actually match the real-world module just fine, so it should be perfectly useable nevertheless.
